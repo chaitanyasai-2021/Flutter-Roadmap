@@ -79,7 +79,7 @@ Given how excellent Flutter's documentation is, I've linked to every article you
 
 
 
-## 💻 Complete Course:
+## 💻 Online Courses To Learn Flutter:
 If you are a total newbie and are searching for some YouTube playlists or Udemy classes, I would suggest the following:
 
 - [Flutter & Dart - The Complete Guide [2023 Edition] (Udemy by Maximilian)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
