@@ -319,12 +319,24 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>      
 
+| Design Principles |          
+|------------|                                                                        
+| <ul><li>- [ ] Design Patterns </li></ul> |
+| <ul><li>- [ ] SOLID Principles </li></ul> |
+
 ## 📊Analytics:
 <div align="center">
   <div style="display: flex;">
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/18.analytics.png?raw=true" width="250"/>
   </div>
-</div>      
+</div>     
+
+| Analytics |          
+|------------|                                                                        
+| <ul><li>- [ ] Google Analytics </li></ul> |
+| <ul><li>- [ ] Firebase Analytics </li></ul> |
+| <ul><li>- [ ] Segment </li></ul> |
+| <ul><li>- [ ] MixPanel </li></ul> |
 
 ## CI / CD in Flutter:
 
@@ -334,6 +346,13 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div> 
 
+| CI/CD in Flutter |          
+|------------|                                                                        
+| <ul><li>- [ ] CodeMagic </li></ul> |
+| <ul><li>- [ ] Bitrise </li></ul> |
+| <ul><li>- [ ] Github Actions </li></ul> |
+| <ul><li>- [ ] Firebase App Dist </li></ul> |
+
 ## 🗃️Database for Flutter:
 
 <div align="center">
@@ -342,8 +361,17 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div> 
 
+| Database for Flutter |          
+|------------|                                                                        
+| <ul><li>- [ ] SQL </li></ul> |
+| <ul><li>- [ ] MySQL </li></ul> |
+| <ul><li>- [ ] SQL Servers </li></ul> |
+| <ul><li>- [ ] No SQL </li></ul> |
+| <ul><li>- [ ] MangoDB </li></ul> |
 
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
+</div> 
 
 
 
