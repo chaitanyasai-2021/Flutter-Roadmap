@@ -5,7 +5,7 @@ If you believe that a topic may be made better or that a comprehensive topic is 
 
 ## Table of contents
 
-- [Flutter Roadmap](#flutter-roadmap)
+- [Flutter Roadmap](#Flutter-Roadmap)
   - [What is Flutter?](#what-is-flutter)
   - [What is Dart?](#what-is-dart)
   - [Installing Flutter & Dart](#installing-flutter--dart)
@@ -117,8 +117,8 @@ The Dart documentation includes a Language Tour, which is well-written and compr
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/1.dart%20basics.png" width="250" style="vertical-align: top;" />
-    <img src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/2.Advance%20Dart.png" width="250" />
+    <img src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/1.dart%20basics.png?raw=true" width="250" style="vertical-align: top;" />
+    <img src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/2.Advance%20Dart.png?raw=true" width="250" />
   </div>
 </div>
 
@@ -210,12 +210,14 @@ The Dart documentation includes a Language Tour, which is well-written and compr
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/10.device_features.png?raw=true" width="250"/>
   </div>
 </div>
- 
-| Device Features |                                                                                                                                             |------------|                                                                            
+
+| Device Features | 
+|------------|
 | <ul><li>- [ ] Camera Access </li></ul> |
 | <ul><li>- [ ] Image Picker </li></ul> |
 | <ul><li>- [ ] Apps Permissions </li></ul> |
 | <ul><li>- [ ] Contacts from a Phone </li></ul> |
+
 
 
 ## 🔥Firebase:
@@ -373,7 +375,24 @@ The Dart documentation includes a Language Tour, which is well-written and compr
 ![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
 </div> 
 
+## 🔗Important Links
+This is the end of the Flutter Roadmap, but there is still a lot more to learn about Flutter.To delve deeper into Flutter, we recommend exploring resources such as other websites, and other learning materials.
 
+### 🎥YouTube Channels
+
+**Flutter (Official channel) -** https://www.youtube.com/c/flutterdev
+
+**Flutter Community -** https://www.youtube.com/c/FlutterCommunityVideos
+
+**Code with Andrea -** https://www.youtube.com/c/CodeWithAndrea
+
+### 👀Medium Channel
+
+**Flutter -** https://medium.com/flutter
+
+### 👥Discord
+
+/**r/Flutter -** https://discord.gg/ckUeC6fsrg
 
 
 
