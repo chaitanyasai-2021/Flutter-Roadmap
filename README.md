@@ -210,12 +210,13 @@ The Dart documentation includes a Language Tour, which is well-written and compr
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/10.device_features.png?raw=true" width="250"/>
   </div>
 </div>
-
-| Device Features | 
-|------------|
+ 
+| Device Features |                                                                                                                                             |------------|                                                                            
 | <ul><li>- [ ] Camera Access </li></ul> |
-| <ul><li>- [ ] SQfLite </li></ul> |
-| <ul><li>- [ ] Shared Preferences </li></ul> |
+| <ul><li>- [ ] Image Picker </li></ul> |
+| <ul><li>- [ ] Apps Permissions </li></ul> |
+| <ul><li>- [ ] Contacts from a Phone </li></ul> |
+
 
 ## 🔥Firebase:
 <div align="center">
@@ -224,6 +225,16 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
+| Firebase |          
+|------------|                                                                        
+| <ul><li>- [ ] Authentication </li></ul> |
+| <ul><li>- [ ] OTP Verification </li></ul> |
+| <ul><li>- [ ] CRUD </li></ul> |
+| <ul><li>- [ ] Storage </li></ul> |
+| <ul><li>- [ ] Firestone </li></ul> |
+| <ul><li>- [ ] Push Notification </li></ul> |
+| <ul><li>- [ ] Remote Config </li></ul> |
+
 ## 🔗Working with API’s:
 <div align="center">
   <div style="display: flex;">
@@ -231,13 +242,31 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
+| API'S |          
+|------------|                                                                        
+| <ul><li>- [ ] Rest API </li></ul> |
+| <ul><li>- [ ] HTTP/DIO </li></ul> |
+| <ul><li>- [ ] Jason Parsing </li></ul> |
+| <ul><li>- [ ] Networking </li></ul> |
+| <ul><li>- [ ] GraphQL </li></ul> |
+| <ul><li>- [ ] Web Socket </li></ul> |
+
 ## 🌍Google Map in Flutter:
                                                                                                   
 <div align="center">
   <div style="display: flex;">
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/13.google_maps.png?raw=true" width="250"/>
   </div>
-</div>                                                                                                    
+</div>    
+
+| Google Maps in Flutter |          
+|------------|                                                                        
+| <ul><li>- [ ] Google Map API </li></ul> |
+| <ul><li>- [ ] Current Location </li></ul> |
+| <ul><li>- [ ] Multiple Markers </li></ul> |
+| <ul><li>- [ ] Tracker </li></ul> |
+| <ul><li>- [ ] Route Polylines </li></ul> |
+| <ul><li>- [ ] Zoom in/out </li></ul> |
                                                                                                      
                                                                                                      
 
@@ -246,25 +275,41 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   <div style="display: flex;">
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/14.architecture.png?raw=true" width="250"/>
   </div>
-</div>                                                                                                    
-                  
+</div>      
+
+| Architecture |          
+|------------|                                                                        
+| <ul><li>- [ ] MVC </li></ul> |
+| <ul><li>- [ ] MVP </li></ul> |
+| <ul><li>- [ ] MVVM </li></ul> |             
 
 ## ⌨️Testing Flutter:
 <div align="center">
   <div style="display: flex;">
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/15.testing.png?raw=true" width="250"/>
   </div>
-</div>                                                                                                    
-               
+</div>   
+
+| Testing Flutter |          
+|------------|                                                                        
+| <ul><li>- [ ] Unit Testing </li></ul> |
+| <ul><li>- [ ] Widget Testing </li></ul> |
+| <ul><li>- [ ] Integration Testing </li></ul> |    
+| <ul><li>- [ ] TDD </li></ul> |
+| <ul><li>- [ ] BDD </li></ul> |
 
 ## 🚀Deployment:
 <div align="center">
   <div style="display: flex;">
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/16.deployement.png?raw=true" width="250"/>
   </div>
-</div>                                                                                                    
-            
+</div>   
 
+| Deployment |          
+|------------|                                                                        
+| <ul><li>- [ ] App Store </li></ul> |
+| <ul><li>- [ ] Play Store </li></ul> |
+            
 # Additional
 ## 🎨Design Principles:
 
