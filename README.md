@@ -168,11 +168,11 @@ The Dart documentation includes a Language Tour, which is well-written and compr
 
 <div align="center">
   <div style="display: flex;">
-    <img style="margin:10px;" src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/3.widgets.png" width="250" style="vertical-align: top;" />
-    <img style="margin:10px;" src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/4.assets.png" width="250" />
-    <img style="margin:10px;" src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/5.vs%20control.png" width="250" />
-    <img style="margin:10px;" src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/6.animations.png" width="250" />
-    <img style="margin:10px;" src="https://github.com/samdoro2010/flutter/blob/main/dart%20images/7.responsive.png" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/3.widgets.png" width="250" style="vertical-align: top;" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/4.assets.png" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/5.vs%20control.png" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/6.animations.png" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/7.responsive.png" width="250" />
   </div>
 </div>
 
