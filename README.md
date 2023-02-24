@@ -165,93 +165,118 @@ The Dart documentation includes a Language Tour, which is well-written and compr
 
 ## Flutter Basics:
 
-
 <div align="center">
   <div style="display: flex;">
-    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/3.widgets.png" width="250" style="vertical-align: top;" />
-    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/4.assets.png" width="250" />
-    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/5.vs%20control.png" width="250" />
-    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/6.animations.png" width="250" />
-    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/flutter/blob/main/dart%20images/7.responsive.png" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/3.widgets.png?raw=true" width="250"/>
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/4.assets.png?raw=true" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/5.vs%20control.png?raw=true" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/6.animations.png?raw=true" width="250" />
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/7.responsive.png?raw=true" width="250" />
   </div>
 </div>
 
 
-
-
 ## State Management:
-
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*1dXCtdakbJ1Q4Dnh0k-foQ.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/8.state-management.png?raw=true" width="250"/>
+  </div>
+</div>
 
 ## 💾 Local Storage:
-
-<p align="center">
-  <img src="https://miro.medium.com/max/720/1*7djA9FmI-bQQCi6yXJ8eYw.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/9.local_storage.png?raw=true" width="250"/>
+  </div>
+</div>
 
 ## 📱Device Features:
-
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*NbNh1LhkrPzjknrUDz-0LA.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/10.device_features.png?raw=true" width="250"/>
+  </div>
+</div>
 
 ## 🔥Firebase:
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*kWPcpNg1uJ5rWiytt4hefQ.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/11.firebase.png?raw=true" width="250"/>
+  </div>
+</div>
 
 ## 🔗Working with API’s:
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*tMMD58q-tO5CWleUQC79EQ.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/12.api.png?raw=true" width="250"/>
+  </div>
+</div>
 
 ## 🌍Google Map in Flutter:
-
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*KgnZLZVyGC2CFKqAItwdcQ.webp" alt="Alt Text" width="300">
-</p>
+                                                                                                  
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/13.google_maps.png?raw=true" width="250"/>
+  </div>
+</div>                                                                                                    
+                                                                                                     
+                                                                                                     
 
 ## 🏢Architecture:
-<p align="center">
-  <img src="https://miro.medium.com/max/550/1*c_281Kh3HUJkg8nbDvAolA.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/14.architecture.png?raw=true" width="250"/>
+  </div>
+</div>                                                                                                    
+                  
 
 ## ⌨️Testing Flutter:
-
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*mAH9R3tXIu6EPPt5n5PF7g.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/15.testing.png?raw=true" width="250"/>
+  </div>
+</div>                                                                                                    
+               
 
 ## 🚀Deployment:
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*dZnLs_5LNyibRMXRETLlgg.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/16.deployement.png?raw=true" width="250"/>
+  </div>
+</div>                                                                                                    
+            
 
 # Additional
 ## 🎨Design Principles:
 
-<p align="center">
-  <img src="https://miro.medium.com/max/634/1*giI7iW1RWGD_gMNfGPXBDA.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/17.design_principles.png?raw=true" width="250"/>
+  </div>
+</div>      
 
 ## 📊Analytics:
-
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*eOewBoJGvCQ0z-Z8pAIJzA.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/18.analytics.png?raw=true" width="250"/>
+  </div>
+</div>      
 
 ## CI / CD in Flutter:
 
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*mZoQzks-F5F5jd2g8xNGcQ.webp" alt="Alt Text" width="300">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/19.cicd.png?raw=true" width="250"/>
+  </div>
+</div> 
 
 ## 🗃️Database for Flutter:
-<p align="center">
-  <img src="https://miro.medium.com/max/640/1*1wFxXBBOqsqwD4UTkEhowg.webp" alt="Alt Text" width="300"/>
-</p>
+
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/20.database.png?raw=true" width="250"/>
+  </div>
+</div> 
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
 
