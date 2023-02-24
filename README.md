@@ -183,6 +183,14 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
+| State Management | 
+|------------|
+| <ul><li>- [ ] Provider </li></ul> |
+| <ul><li>- [ ] Riverpod </li></ul> |
+| <ul><li>- [ ] Bloc </li></ul> |
+| <ul><li>- [ ] Redux </li></ul> |
+| <ul><li>- [ ] GetX </li></ul> |
+
 ## 💾 Local Storage:
 <div align="center">
   <div style="display: flex;">
@@ -190,12 +198,24 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
+| Local Storage | 
+|------------|
+| <ul><li>- [ ] Hive </li></ul> |
+| <ul><li>- [ ] SQfLite </li></ul> |
+| <ul><li>- [ ] Shared Preferences </li></ul> |
+
 ## 📱Device Features:
 <div align="center">
   <div style="display: flex;">
     <img style="margin:10px;" src="https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/10.device_features.png?raw=true" width="250"/>
   </div>
 </div>
+
+| Device Features | 
+|------------|
+| <ul><li>- [ ] Camera Access </li></ul> |
+| <ul><li>- [ ] SQfLite </li></ul> |
+| <ul><li>- [ ] Shared Preferences </li></ul> |
 
 ## 🔥Firebase:
 <div align="center">
