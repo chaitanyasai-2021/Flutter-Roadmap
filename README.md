@@ -369,9 +369,6 @@ The Dart documentation includes a Language Tour, which is well-written and compr
 | <ul><li>- [ ] No SQL </li></ul> |
 | <ul><li>- [ ] MangoDB </li></ul> |
 
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
-</div> 
 
 ## 🔗Important Links
 This is the end of the Flutter Roadmap, but there is still a lot more to learn about Flutter.To delve deeper into Flutter, we recommend exploring resources such as other websites, and other learning materials.
@@ -391,6 +388,11 @@ This is the end of the Flutter Roadmap, but there is still a lot more to learn a
 ### 👥Discord
 
 /**r/Flutter -** https://discord.gg/ckUeC6fsrg
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
 
 
 
