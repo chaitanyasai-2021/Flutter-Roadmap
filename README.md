@@ -220,12 +220,12 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
-| Device Features | 
-|------------|
-| <ul><li>- [ ] Camera Access </li></ul> |
-| <ul><li>- [ ] Image Picker </li></ul> |
-| <ul><li>- [ ] Apps Permissions </li></ul> |
-| <ul><li>- [ ] Contacts from a Phone </li></ul> |
+| Device Features | Project Examples |
+|------------| ----------- |
+| <ul><li>- [ ] Camera Access </li></ul> | Check internet connection </li></ul> |
+| <ul><li>- [ ] Image Picker </li></ul> | Picker App (where you should add an image, sound, and video access permission) </li></ul> |
+| <ul><li>- [ ] Apps Permissions </li></ul> ||
+| <ul><li>- [ ] Contacts from a Phone </li></ul> ||
 
 
 
@@ -236,15 +236,17 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
-| Firebase |          
+| Firebase | Project Examples |          
 |------------|                                                                        
-| <ul><li>- [ ] Authentication </li></ul> |
-| <ul><li>- [ ] OTP Verification </li></ul> |
-| <ul><li>- [ ] CRUD </li></ul> |
-| <ul><li>- [ ] Storage </li></ul> |
-| <ul><li>- [ ] Firestone </li></ul> |
-| <ul><li>- [ ] Push Notification </li></ul> |
-| <ul><li>- [ ] Remote Config </li></ul> |
+| <ul><li>- [ ] Authentication </li></ul> | Chat App (Whatsapp clone) </li></ul> |
+| <ul><li>- [ ] OTP Verification </li></ul> | Facebook clone </li></ul> |
+| <ul><li>- [ ] CRUD </li></ul> |     Todo App </li></ul> |
+| <ul><li>- [ ] Storage </li></ul> |     Notes App </li></ul> |
+| <ul><li>- [ ] Firestone </li></ul> ||
+| <ul><li>- [ ] Push Notification </li></ul> ||
+| <ul><li>- [ ] Remote Config </li></ul> ||
+
+
 
 ## 🔗Working with API’s:
 <div align="center">
