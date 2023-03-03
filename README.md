@@ -91,7 +91,7 @@ If you're a beginner programmer, understanding OOP and stack data structures is 
 Otherwise, you don't need to study Dart explicitly because it is pretty comparable to Java, C++, and C# and you will learn it as you go.
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/43790152…00061086-58ada080-2e4f-11eb-9961-12234545b333.png" alt="Alt Text" width="300">
+  <img src= "https://github.com/chaitanyasai-2021/Flutter-Roadmap/blob/main/dart%20images/dart.png" alt="Alt Text" width="600">
 </p>
 
 
