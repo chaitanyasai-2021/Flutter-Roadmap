@@ -1,16 +1,10 @@
 # Flutter-Roadmap
 In this repository you will learn Flutter from scratch .Throughout this roadmap, you will have a better understanding of the programming language Dart and the framework Flutter.
 
-If you believe that a topic may be made better or that a comprehensive topic is missing? Then visit How to Contribute.md to join us in realising our goal of a totally free Flutter course!
+If you believe that a topic may be made better or that a comprehensive topic is missing? Then
 
-## Table of contents
 
-- [Flutter Roadmap](#Flutter-Roadmap)
-  - [What is Flutter?](#what-is-flutter)
-  - [What is Flutter?](#why-flutter)
-  - [What is dart?](#what-is-dart?)
-- [Installation](#installation)  
-  
+**Throughout this Flutter roadmap, there are checkboxes for every topic and projects that you can cover. You can track your progress by forking this project and marking the checkboxes accordingly.**
 
 ## What is Flutter ?
 The open-source mobile application development platform called Flutter, developed by Google, has been quite popular in recent years, and this development is only expected to continue. Flutter is anticipated to become even more well-known among programmers and businesses trying to create cross-platform mobile applications in 2023.
