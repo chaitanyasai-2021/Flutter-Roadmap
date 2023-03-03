@@ -158,6 +158,7 @@ The Dart documentation includes a Language Tour, which is well-written and compr
 
 
 
+
 ## Flutter Basics:
 
 <div align="center">
@@ -170,6 +171,16 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
+| Widgets | Assets | Vs Control | Animations | Responsive |
+|------------|------------------| --------------| -------------|-------------|
+| <ul><li>- [ ] Stateless Widget </li></ul> | <ul><li>- [ ] Images </li></ul> | <ul><li>- [ ] Git and Github </li></ul>| <ul><li>- [ ] Animated Widgets </li></ul>| <ul><li>- [ ] Media Query </li></ul>| 
+| <ul><li>- [ ] Stateful Widget </li></ul> | <ul><li>- [ ] App Icons </li></ul> ||<ul><li>- [ ] Tween Animations </li></ul>|<ul><li>- [ ] Layout Builders </li></ul>| 
+| <ul><li>- [ ] Material Widget </li></ul> | <ul><li>- [ ] Sounds/Audio </li></ul> ||<ul><li>- [ ] Curved Animations </li></ul>|<ul><li>- [ ] Responsive Widgets </li></ul>| 
+| <ul><li>- [ ] Cupertino Widget </li></ul> |<ul><li>- [ ] Fonts </li></ul>||<ul><li>- [ ] Hero Animations </li></ul>|
+| <ul><li>- [ ] Cupertino Widget </li></ul> |<ul><li>- [ ] Video </li></ul>||<ul><li>- [ ] Rive and Flare </li></ul>|
+
+
+
 
 ## State Management:
 <div align="center">
@@ -178,13 +189,16 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
-| State Management | 
-|------------|
-| <ul><li>- [ ] Provider </li></ul> |
-| <ul><li>- [ ] Riverpod </li></ul> |
-| <ul><li>- [ ] Bloc </li></ul> |
-| <ul><li>- [ ] Redux </li></ul> |
-| <ul><li>- [ ] GetX </li></ul> |
+| **State Management** | Project Examples
+|------------|------------------|
+| <ul><li>- [ ] Provider </li></ul> | <ul><li>- [ ] Counter App </li></ul> |
+| <ul><li>- [ ] Riverpod </li></ul> | <ul><li>- [ ] Weather App </li></ul> |
+| <ul><li>- [ ] Bloc </li></ul> | <ul><li>- [ ] Todo App </li></ul> |
+| <ul><li>- [ ] Redux </li></ul> ||
+| <ul><li>- [ ] GetX </li></ul> |  |
+
+
+
 
 ## 💾 Local Storage:
 <div align="center">
@@ -386,8 +400,8 @@ This is the end of the Flutter Roadmap, but there is still a lot more to learn a
 
 /**r/Flutter -** https://discord.gg/ckUeC6fsrg
 
-
-
+----------------------------------
+## Make sure to 🌟 the Repo!
 
 ![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
 
