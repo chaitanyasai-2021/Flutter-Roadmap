@@ -171,13 +171,13 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
-| Widgets | Assets | Vs Control | Animations | Responsive |
-|------------|------------------| --------------| -------------|-------------|
-| <ul><li>- [ ] Stateless Widget </li></ul> | <ul><li>- [ ] Images </li></ul> | <ul><li>- [ ] Git and Github </li></ul>| <ul><li>- [ ] Animated Widgets </li></ul>| <ul><li>- [ ] Media Query </li></ul>| 
-| <ul><li>- [ ] Stateful Widget </li></ul> | <ul><li>- [ ] App Icons </li></ul> ||<ul><li>- [ ] Tween Animations </li></ul>|<ul><li>- [ ] Layout Builders </li></ul>| 
-| <ul><li>- [ ] Material Widget </li></ul> | <ul><li>- [ ] Sounds/Audio </li></ul> ||<ul><li>- [ ] Curved Animations </li></ul>|<ul><li>- [ ] Responsive Widgets </li></ul>| 
-| <ul><li>- [ ] Cupertino Widget </li></ul> |<ul><li>- [ ] Fonts </li></ul>||<ul><li>- [ ] Hero Animations </li></ul>|
-| <ul><li>- [ ] Cupertino Widget </li></ul> |<ul><li>- [ ] Video </li></ul>||<ul><li>- [ ] Rive and Flare </li></ul>|
+| Widgets | Assets | Vs Control | Animations | Responsive | Project Examples |
+|------------|------------------| --------------| -------------|-------------|------------|
+| <ul><li>- [ ] Stateless Widget </li></ul> | <ul><li>- [ ] Images </li></ul> | <ul><li>- [ ] Git and Github </li></ul>| <ul><li>- [ ] Animated Widgets </li></ul>| <ul><li>- [ ] Media Query </li></ul>| <ul><li>- [ ] Signup and Login App Using Splash </li></ul>|  
+| <ul><li>- [ ] Stateful Widget </li></ul> | <ul><li>- [ ] App Icons </li></ul> ||<ul><li>- [ ] Tween Animations </li></ul>|<ul><li>- [ ] Layout Builders </li></ul>|  <ul><li>- [ ] Sound Play App (imort various songs and play them with a tap) </li></ul>|  
+| <ul><li>- [ ] Material Widget </li></ul> | <ul><li>- [ ] Sounds/Audio </li></ul> ||<ul><li>- [ ] Curved Animations </li></ul>|<ul><li>- [ ] Responsive Widgets </li></ul>|  <ul><li>- [ ] Create an App UI of your own </li></ul>|  
+| <ul><li>- [ ] Cupertino Widget </li></ul> |<ul><li>- [ ] Fonts </li></ul>||<ul><li>- [ ] Hero Animations </li></ul>||
+| <ul><li>- [ ] Cupertino Widget </li></ul> |<ul><li>- [ ] Video </li></ul>||<ul><li>- [ ] Rive and Flare </li></ul>||
 
 
 
@@ -207,11 +207,11 @@ The Dart documentation includes a Language Tour, which is well-written and compr
   </div>
 </div>
 
-| Local Storage | 
-|------------|
-| <ul><li>- [ ] Hive </li></ul> |
-| <ul><li>- [ ] SQfLite </li></ul> |
-| <ul><li>- [ ] Shared Preferences </li></ul> |
+| Local Storage | Project Examples |
+|------------| ------------- |
+| <ul><li>- [ ] Hive </li></ul> | <ul><li>- [ ] Counter App </li></ul> |
+| <ul><li>- [ ] SQfLite </li></ul> | <ul><li>- [ ] Todo App </li></ul> |
+| <ul><li>- [ ] Shared Preferences </li></ul> | <ul><li>- [ ] Theme Switcher App </li></ul> |
 
 ## 📱Device Features:
 <div align="center">
